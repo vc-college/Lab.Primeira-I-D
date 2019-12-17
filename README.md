@@ -4,7 +4,7 @@ Laboratório de Redes, edição de  Internet Drafts (I-D)
 Exercício de escrita de I-D
 
 Utilize o arquivo draft-HTTP-GPOS-NomeAutor-00.txt  para criar sua versão de extensão do protocolo HTTP para permitir a requisição de geolocalização de um *site*.  Uma requisição HTTP deve incluir um campo GPOS e o servidor deve retornar uma resposta no formato:
-           <owner> <ttl> <class> GPOS <longitude> <latitude> <altitude>
+           owner ttl class GPOS longitude latitude altitude
              
            Os campos  owner, ttl e class são opcionais na RFC 1712. 
            
