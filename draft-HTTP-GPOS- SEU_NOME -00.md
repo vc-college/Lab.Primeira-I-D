@@ -46,90 +46,32 @@ review these documents carefully, as they describe your rights and restrictions 
 
 ## 1. Introduction
 > This section is usually entitled “Introduction
-> Unnumbered list:
-
-* item 1 and this one wraps to the next line, eventually, to show how subsequent lines are indented
-
-*	item 2
-
-*	item 3
-> Numbered list:
-1.	item 1
-2.	item 2
-3.	item 3
-
-<And this is an ASCII figure:>
-<Draw me in the "RFC ASCII figure" style>
-+------------------------------------------------+
-  
-|                                                |
-
-|                                                |
-
-|                                                |
-
-|                                                |
-
-|                                                |
-
-|                                                |
-
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-|                                                |
-
-+------------------------------------------------+
-
-Figure 1	Add a caption as here.
-
-
 
 ## 2. Conventions used in this document
 In examples, "C:" and "S:" indicate lines sent by the client and server respectively.
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119 [RFC2119]. 
+
 In this document, these words will appear with that interpretation   only when in ALL CAPS. Lower case uses of these words are not to be    interpreted as carrying significance described in RFC 2119.
+
 In this document, the characters ">>" preceding an indented line(s)   indicates a statement using the key words listed above. This convention aids reviewers in quickly identifying or finding the portions of this RFC covered by these keywords.
 
 ## 3. Section 2 heading as appropriate
 >Text for this section
 
-## 4. Section 3 heading as appropriate
->Text for this section
-
-## 5. <Section 4 heading as appropriate>
-Text for this section
-
-## 6. Formal Syntax
->Define your formal syntax here.
-
-## 7. Security Considerations
+## 4. Security Considerations
 
 >Add any security considerations
 
-## 8. IANA Considerations
+## 5. IANA Considerations
 
 >Add any IANA considerations
 
-## 9. Conclusions
+## 6. Conclusions
 > Add any conclusions
 
-## 10. References
+## 7. References
 
-### 10.1. Normative References
+### 7.1. Normative References
 
 [1]	Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
 
@@ -141,12 +83,12 @@ Demon Internet Ltd., November 1997.
 [RFC2234]	Crocker, D. and Overell, P.(Editors), "Augmented BNF for Syntax Specifications: ABNF", RFC 2234, Internet Mail 
 Consortium and Demon Internet Ltd., November 1997.
 
-### 10.2. Informative References
+### 7.2. Informative References
 
 [3]	Faber, T., Touch, J. and W. Yue, "The TIME-WAIT state in TCP and Its Effect on Busy Servers", Proc. Infocom 1999 pp. 1573-1583.
 [Fab1999]	Faber, T., Touch, J. and W. Yue, "The TIME-WAIT state in TCP and Its Effect on Busy Servers", Proc. Infocom 1999  
 pp. 1573-1583.
 
-## 11. Acknowledgments
+## 8. Acknowledgments
 >Add any acknowledgements
 
