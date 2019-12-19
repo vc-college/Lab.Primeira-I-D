@@ -1,15 +1,17 @@
 <Working Group Name>		              <Initial. Lastname>
+  
 Internet Draft		                    DComp/UFS
+
 Intended status: EXPERIMENTAL	        XXX 0, 0000
+
 Expires: Fail 0000
 
 
 
-<Title>
-draft-<ietf-wgname-docname>-00.txt
+# '<Title>' draft-<ietf-wgname-docname'>'-00.txt
 
 
-Status of this Memo
+## Status of this Memo
 
 This Internet-Draft is submitted in full conformance with the provisions of BCP 78 and BCP 79. 
 This document may not be modified, and derivative works of it may not be created, except to publish
@@ -31,22 +33,25 @@ The list of current Internet-Drafts can be accessed at http://www.ietf.org/ietf/
 The list of Internet-Draft Shadow Directories can be accessed at http://www.ietf.org/shadow.html
 This Internet-Draft will expire on Fail 19, 0000.
 
-Copyright Notice
+## Copyright Notice
 Copyright (c) 0000 IETF Trust and the persons identified as the document authors. All rights reserved.
 
 This document is subject to BCP 78 and the IETF Trust’s Legal Provisions Relating to IETF Documents 
 (http://trustee.ietf.org/license-info) in effect on the date of publication of this document. Please
 review these documents carefully, as they describe your rights and restrictions with respect to this document. 	
 
-Abstract
-<Type your abstract here. Typically 5-10 lines, never less than 3 lines nor more than 20 lines> 
+## Abstract
+'<'Type your abstract here. Typically 5-10 lines, never less than 3 lines nor more than 20 lines'>' 
 
 
-1. Introduction
-<This section is usually entitled “Introduction>
-<Unnumbered list:>
-* <item 1 and this one wraps to the next line, eventually, to show how subsequent lines are indented>
-*	<item 2>
+## 1. Introduction
+'<'This section is usually entitled “Introduction'>'
+'<'Unnumbered list:'>'
+
+* '<item 1 and this one wraps to the next line, eventually, to show how subsequent lines are indented>'
+
+*	'<item 2>'
+
 *	<item 3>
 <Numbered list:>
 1.	<item 1>
