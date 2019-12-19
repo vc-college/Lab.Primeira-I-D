@@ -8,7 +8,7 @@ Expires: Fail 0000
 
 
 
-# '<Title>' draft-<ietf-wgname-docname'>'-00.txt
+# Title draft- **ietf-wgname-docname** -00.txt
 
 
 ## Status of this Memo
