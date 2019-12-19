@@ -3,15 +3,17 @@ Laboratório de Redes, edição de  Internet Drafts (I-D)
 
 Exercício de escrita de I-D
 
-Utilize o arquivo draft-HTTP-GPOS-NomeAutor-00.txt  para criar sua versão de extensão do protocolo HTTP para permitir a requisição de geolocalização de um *site*.  
+Utilize o arquivo draft-HTTP-GPOS-NomeAutor-00.md  para criar sua versão de extensão do protocolo HTTP para permitir a requisição de geolocalização de um *site*. 
 
-Faça uma introdução para que serve seu protocolo, em seguida descreva as mensagens do cliente e do servidor.
+Na seção 1, faça uma introdução para que serve seu protocolo.
+
+Na seção3, descreva as mensagens do cliente e do servidor:
 
 1. Uma requisição GET HTTP deve incluir um campo **GPOS: nome_dispositivo** 
 
 2. O servidor deve retornar uma resposta no formato:
 
-nome_dispositivo ttl classs **GPOS**  longitude latitude altitude
+nome_dispositivo ttl class **GPOS**  longitude latitude altitude
              
 Observações: 
 
