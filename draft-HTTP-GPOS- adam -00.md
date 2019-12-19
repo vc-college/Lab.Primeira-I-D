@@ -1,4 +1,4 @@
-**Working Group Name**  **Initial. Lastname**
+**Working Group Name**  **Adam. Araújo**
   
 Internet Draft         DComp/UFS
 
@@ -8,7 +8,7 @@ Expires: Fail 0000
 
 
 
-# Title draft- **ietf-wgname-adam** -00.txt
+# Title draft- **HTTP-GPOS-adam** -00.txt
 
 
 ## Status of this Memo
@@ -71,6 +71,8 @@ O servidor, por sua vez, deve retornar uma resposta no seguinte formato:
 
 nome_dispositivo ttl class GPOS longitude latitude altitude
 
+Obs.: os campos nome_dispositivo, ttl e classe são opcionais na RFC 1712.
+
 ## 4. Security Considerations
 
 >Add any security considerations
@@ -90,6 +92,8 @@ nome_dispositivo ttl class GPOS longitude latitude altitude
 
 [2]	Crocker, D. and Overell, P.(Editors), "Augmented BNF for Syntax Specifications: ABNF", RFC 2234, Internet Mail Consortium and 
 Demon Internet Ltd., November 1997.
+
+[RFC1712]       C. Farrell, M. Schulze, S. Pleitner, D. Baldoni, "DNS Encoding of Geographical Location", November 1994.
 
 [RFC2119]	Bradner, S., "Key words for use in RFCs to Indicate Requirement Levels", BCP 14, RFC 2119, March 1997.
 
