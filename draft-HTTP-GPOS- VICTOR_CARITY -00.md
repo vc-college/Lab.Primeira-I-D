@@ -45,7 +45,7 @@ review these documents carefully, as they describe your rights and restrictions 
 
 
 ## 1. Introduction
-> Este protocolo é uma variação do HTTP para fins de permitir a requisição de geolocalização de um determinado site.
+> Protocolo que re-implementa o HTTP, adicionando um campo para informações adicionais que irão conter a geolocalização de endereços específicos.
 
 ## 2. Conventions used in this document
 In examples, "C:" and "S:" indicate lines sent by the client and server respectively.
